@@ -251,7 +251,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Appreciation to my fellow microverse student, Blinkz
+> Appreciation to my fellow microverse student, Blinkzman
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
