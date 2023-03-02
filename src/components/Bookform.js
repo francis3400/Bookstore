@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
 function Bookform() {
   const [formData, setFormData] = useState({
-    title: "",
-    author: "",
+    title: '',
+    author: '',
   });
   const setValue = (ev) => {
     const { value } = ev.target;
@@ -35,4 +35,3 @@ function Bookform() {
 }
 
 export default Bookform;
-
