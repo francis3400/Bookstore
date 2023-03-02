@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 function Bookform() {
   const [formData, setFormData] = useState({
     title: '',
@@ -33,5 +32,4 @@ function Bookform() {
     </div>
   );
 }
-
 export default Bookform;
